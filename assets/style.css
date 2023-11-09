@@ -36,6 +36,9 @@
    .card {
     width: 80%;
     margin: 40px auto;
+
     border: 5px solid #ba11fd;
     box-shadow: 5px 10px #010f2c;
+
+   
   }
